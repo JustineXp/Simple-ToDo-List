@@ -62,6 +62,7 @@ input {
   box-sizing: border-box;
   outline: none;
   border: none;
+  display: none;
 }
 
 input:focus {
